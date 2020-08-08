@@ -287,3 +287,8 @@ section {
 #prof-skills .text-gray {
   color: #aaa;
 }
+
+#loadMore button,
+#showLess button {
+	border-radius: 10rem;
+}
